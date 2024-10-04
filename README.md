@@ -15,7 +15,7 @@
     </section>
 
     <section id="servicos" class="secao">
-        <h2>Meus Serviços</h2>
+        <h3>Meus Serviços</h3>
         <div class="servicos">
             <div class="servico">
                 <h3>Administração</h3>
